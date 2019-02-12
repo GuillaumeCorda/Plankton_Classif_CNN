@@ -13,7 +13,7 @@ There are multiple Jupyter Notebooks in the repo. Multiple techniques have been 
 
 ## Evaluation
 
-Submissions were evaluated using the Category Accuracy. Each image had been labeled with one true class. For each image, we submitted our predicted class. The formula is then:
+Submissions were evaluated using the Category Accuracy. Each image had been labeled with one true class. For each image, we submitted our predicted class.
 
 ### Submission Format
 
