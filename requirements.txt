@@ -1,0 +1,11 @@
+numpy
+pandas
+jupyter
+sklearn
+matplotlib
+tensorflow
+pillow
+scikit-image
+h5py
+keras
+imblearn
