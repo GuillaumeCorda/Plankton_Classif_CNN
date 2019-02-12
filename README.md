@@ -1,6 +1,6 @@
 # Kaggle Project for Applied Machine Learning
 
-This is the repository for the 1<sup>st</sup> National Data Science Bowl Kaggle Challenge: Plankton Image Classification ([here](https://www.kaggle.com/c/1stdsbowl-in-class) or [here](https://www.kaggle.com/c/datasciencebowl)). This project was part of the Applied Machine Learning course for the MSc Information Studies at the University of Amsterdam ('18-'19).
+Here is the solution proposed to the National Data Science Bowl Kaggle Challenge: Plankton Image Classification ([link](https://www.kaggle.com/c/1stdsbowl-in-class) or [here](https://www.kaggle.com/c/datasciencebowl)). This project was part of the Applied Machine Learning course for the MSc Information Studies at the University of Amsterdam ('18-'19).
 
 ## Goal
 
